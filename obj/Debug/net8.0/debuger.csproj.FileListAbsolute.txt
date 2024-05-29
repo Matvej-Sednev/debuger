@@ -1,0 +1,14 @@
+C:\Users\matve\source\repos\debuger\bin\Debug\net8.0\debuger.exe
+C:\Users\matve\source\repos\debuger\bin\Debug\net8.0\debuger.deps.json
+C:\Users\matve\source\repos\debuger\bin\Debug\net8.0\debuger.runtimeconfig.json
+C:\Users\matve\source\repos\debuger\bin\Debug\net8.0\debuger.dll
+C:\Users\matve\source\repos\debuger\bin\Debug\net8.0\debuger.pdb
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\debuger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\debuger.AssemblyInfoInputs.cache
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\debuger.AssemblyInfo.cs
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\debuger.csproj.CoreCompileInputs.cache
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\debuger.dll
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\refint\debuger.dll
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\debuger.pdb
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\debuger.genruntimeconfig.cache
+C:\Users\matve\source\repos\debuger\obj\Debug\net8.0\ref\debuger.dll
